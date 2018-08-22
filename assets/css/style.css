@@ -1,0 +1,134 @@
+.bodystyle {
+    font-family: 'Sawarabi Mincho', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+
+.container-fluid {
+    background: url(../../assets/images/dust_scratches.png); 
+    height: auto;
+    margin: 0;
+    padding: 50px 20% 150px;
+
+}
+
+
+.col-12{
+    padding: 0;
+}
+
+.copyrighttxt{
+    font-size:10;
+}
+.contact {
+    float: left;
+    padding: 0 0 10%;
+    color: #4aaaa5;
+    font-size:2em;
+}
+
+.entrybox {
+    width: 100%;
+}
+
+.extraspace{
+    height: 60px;
+}
+
+.firstparagraphindent{
+    padding: 10px 0 0 10px;
+}
+
+
+.msgentrybox {
+    width: 100%
+
+}
+
+.myimage { 
+    border: 1px solid black;
+	transform: rotate(0deg);
+    max-width: 100%;
+    margin: 0;
+}
+
+.name {
+ 
+    color: white;
+    font-size:2em;
+    padding: 2% 2.5%;
+    width: auto;
+    text-align: center;
+}
+
+.namebox{
+    background-color: #4aaaa5;
+    text-align: center;
+}
+
+
+.navstyle {
+   
+    font-size:1em;
+    padding: 2% 2.5%;
+    text-align: center;
+}
+
+.Portimage1{
+    width: 90%;
+    height: 90%
+}
+
+
+
+.row {
+    margin: 0;
+} 
+
+.rowbreakline {
+    background-color: #4aaaa5;
+    height: 5%;
+}
+
+.rowcontent {
+    background-color: #ffffff;
+    margin: 0;
+    padding: 2.5% 2.5% 0;
+    height: auto;
+}
+.rowcopyright {
+    background-color: grey;
+    color: white;
+    height: 95%;
+    text-align: center;  
+}
+
+.rowcontact {
+    height: 10%;
+}
+
+
+.rowfooter {
+   
+    height: 100px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+
+}
+
+.rowheader {
+    padding: 0 20%;
+}
+
+.rowpadding{
+    padding: 10px 0 0;
+}
+
+
+.rowundercontact {
+    background-color: grey;
+    height: 0.5%;
+    margin: 0 0 1% 0;
+}
