@@ -9,13 +9,24 @@
     background: url(../../assets/images/dust_scratches.png); 
     height: auto;
     margin: 0;
-    padding: 50px 20% 150px;
+    padding: 100px 20% 250px;
 
 }
 
 
 .col-12{
     padding: 0;
+}
+
+.comingsoon {
+    color: orangered;
+    bottom: 40px;
+	font-size: 12px;
+	font-weight: bold;
+    padding: 5;
+    position: absolute;
+    text-align: center;
+    width: 100%;
 }
 
 .copyrighttxt{
@@ -32,29 +43,34 @@
     width: 100%;
 }
 
-.extraspace{
-    height: 60px;
-}
+
 
 .firstparagraphindent{
     padding: 10px 0 0 10px;
 }
 
+.img-fluid {
+    border: 1px solid black;
+    width: 175px;
+    min-width: 80%;
+    height:150px;
+    min-height: auto;
+}
 
 .msgentrybox {
-    width: 100%
+    width: 100%;
 
 }
 
-.myimage { 
-    border: 1px solid black;
-	transform: rotate(0deg);
-    max-width: 100%;
-    margin: 0;
+.imagemargin { 
+    margin: 10px;
 }
 
+
+
+
+}
 .name {
- 
     color: white;
     font-size:2em;
     padding: 2% 2.5%;
@@ -75,12 +91,10 @@
     text-align: center;
 }
 
-.Portimage1{
-    width: 90%;
-    height: 90%
+
+.piclabel {
+    text-align: center;
 }
-
-
 
 .row {
     margin: 0;
@@ -94,9 +108,10 @@
 .rowcontent {
     background-color: #ffffff;
     margin: 0;
-    padding: 2.5% 2.5% 0;
-    height: auto;
+    padding: 2.5%;
+    
 }
+
 .rowcopyright {
     background-color: grey;
     color: white;
@@ -125,6 +140,7 @@
 .rowpadding{
     padding: 10px 0 0;
 }
+
 
 
 .rowundercontact {
